@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E293B,50:2563EB,75:0891B2,100:06B6D4&height=260&section=header&text=NGO%20Proposal%20Drafting%20Bot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI-Powered%20RAG%20Platform%20for%20NGOs&descAlignY=58&descSize=18" width="100%" />
+
+</div>
+
 # 🌍 NGO Proposal Drafting Bot
 
 <div align="center">
@@ -574,8 +580,10 @@ If you found this project useful:
 
 <div align="center">
 
-# 🚀 Empowering NGOs with Generative AI
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Empowering+NGOs+with+Generative+AI;Production-Grade+RAG+Architecture;AI-Powered+Proposal+Automation;FastAPI+%2B+Streamlit+%2B+LangChain+%2B+FAISS" />
 
-### Built with ❤️ using FastAPI, Streamlit, LangChain & RAG
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,25:0891B2,50:2563EB,75:1E293B,100:0F172A&height=180&section=footer&text=Built%20for%20Social%20Impact&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 </div>
