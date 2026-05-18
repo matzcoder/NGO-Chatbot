@@ -164,7 +164,7 @@ Secure multi-role architecture.
 ```mermaid
 flowchart TD
 
-A[User Uploads NGO Documents] --> B[Document Parsing Engine]
+A[User Uploads NGO Documents ] --> B[Document Parsing Engine]
 B --> C[Chunking Pipeline]
 C --> D[Embedding Generation]
 D --> E[FAISS Vector Database]
